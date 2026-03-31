@@ -50,7 +50,7 @@ export default function ResultPage() {
 
             <div style={{ paddingBottom: "10px" }} className="line1">
               <h2>
-                B.E.(CBCS) ENGINEERING Vrd SEM ( COMPUTER SCIENCE & ENGINEERING(CSE) ) Examination Result 2025 - 2026
+                B.E.(CBCS) ENGINEERING Vrd SEM ( Electronics and Conputer Engineering (ECC) ) Examination Result 2025 - 2026
               </h2>
             </div>
 
